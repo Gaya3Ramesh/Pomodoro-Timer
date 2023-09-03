@@ -8,7 +8,7 @@ The Pomodoro Timer is a web application built using HTML, CSS, and JavaScript. I
 
 ## Live Demo
 
-You can view the live demo of the project [Pomodoro]([https://your-live-demo-link.com](https://gaya3ramesh.github.io/Pomodoro-Timer/)).
+You can view the live demo of the project [Pomodoro](https://gaya3ramesh.github.io/Pomodoro-Timer/).
 
 ## Features
 
